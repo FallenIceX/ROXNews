@@ -1,0 +1,30 @@
+.button1 {
+  font-size: 1rem;
+  box-shadow: 0px 0px 20px;
+  border-radius: 15px;
+  background-color: #de001e;
+  padding: 10px 20px;
+  width: 10%;
+  text-align: center;
+}
+.button2 {
+  font-size: 1rem;
+  box-shadow: 0px 0px 20px;
+  border-radius: 15px;
+  background-color: #de001e;
+  padding: 10px 20px;
+  width: 10%;
+  text-align: center;
+}
+.button3 {
+  font-size: 1rem;
+  box-shadow: 0px 0px 20px;
+  border-radius: 15px;
+  background-color: #1698de;
+  padding: 10px 20px;
+  width: 10%;
+  text-align: center;
+}
+.button:hover{
+  box-shadow: 0px 0px 50px #de001e;
+}
